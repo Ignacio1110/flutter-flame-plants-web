@@ -1,6 +1,5 @@
-# flutter-flame-test
-測試用Flutter Flame製作RPG風格遊戲
-網頁展示
+# flutter-flame-web 
+網頁展示,用Flutter Flame製作RPG風格遊戲
 
 
 根據文中所寫的使用Github Page的方式，把成果放到github並設定網頁
